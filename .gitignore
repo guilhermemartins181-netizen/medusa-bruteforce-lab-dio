@@ -1,0 +1,4 @@
+evidencias/*.log
+evidencias/*.png
+evidencias/*.jpg
+.DS_Store

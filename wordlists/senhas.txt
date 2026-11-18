@@ -1,0 +1,10 @@
+123456
+password
+admin
+msfadmin
+12345678
+root
+senha
+qwerty
+123456789
+service
