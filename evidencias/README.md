@@ -1,6 +1,13 @@
 # Evidências
 
-Coloque aqui os **prints e logs da sua própria execução** no laboratório, para dar prova visual do processo (recrutadores gostam disso):
+Prints da execução real do laboratório:
+
+- **`01-nmap-reconhecimento.png`** — varredura com `nmap` mostrando os serviços expostos do Metasploitable 2 (192.168.56.101).
+- **`02-medusa-account-found.png`** — ataque com Medusa retornando `ACCOUNT FOUND: [ssh] User: msfadmin Password: msfadmin [SUCCESS]`.
+
+---
+
+Para novos prints, coloque aqui os **prints e logs da própria execução** no laboratório, para dar prova visual do processo (recrutadores gostam disso):
 
 Sugestões de capturas:
 
